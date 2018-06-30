@@ -19,7 +19,7 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-uppercase">
-        <div><a class="navbar-brand" href="/">Cirugía - Dr. Nombre Nombre</a></div>
+        <div><a class="navbar-brand" href="/">Dr. Rub&eacute;n Castillo M&eacute;ndez</a></div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navBarCollapse" aria-controls="navBarCollapse"
             aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

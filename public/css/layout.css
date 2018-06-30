@@ -23,3 +23,7 @@ body {
 .white{
     color:white;
 }
+
+.border-1{
+    border: 1px solid black;
+}
